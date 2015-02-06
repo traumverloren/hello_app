@@ -1,5 +1,7 @@
-This is the first app of Hartl's Rails Tutorial!
+# Ruby on Rails Tutorial: "hello, world!"
 
-I'm loving learning Ruby on Rails! <3
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/).
 
-by [Stephanie](http://newcodegirl.blogspot.com)
+Made by [Stephanie](http://newcodegirl.blogspot.com)
